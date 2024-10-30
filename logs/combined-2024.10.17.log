@@ -1,0 +1,1356 @@
+{"level":30,"time":1729160257602,"pid":3624,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729160257791,"pid":3624,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729160270126,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729160270127,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729160270129,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729160270445,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729160270446,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729160270970,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729160270971,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729160270972,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729160270974,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729160270975,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729160270985,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729160270987,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729160270988,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729160270988,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729160270989,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729160270990,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729160270990,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729160270991,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729160270991,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729160270993,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729160270994,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729160270995,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729160270997,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729160270998,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729160271002,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729160271004,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729160271005,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729160271007,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729160271008,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729160271009,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729160271010,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729160271010,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729160271011,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729160271012,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729160271012,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729160271013,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729160271013,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729160271014,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729160271016,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729160271017,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729160271017,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729160271018,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729160271024,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729160271026,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729160271027,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729160271029,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729160271033,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729160271034,"pid":3624,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729160271059,"pid":3624,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729160271059,"pid":3624,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729160271059,"pid":3624,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729160271060,"pid":3624,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729160271060,"pid":3624,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729160271061,"pid":3624,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729160271343,"pid":3624,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729160271587,"pid":3624,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729160271587,"pid":3624,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729160273094,"pid":3624,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729160274568,"pid":3624,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729160274622,"pid":3624,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729160274747,"pid":3624,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729160275117,"pid":3624,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729160541129,"pid":1824,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729160541170,"pid":1824,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729160541586,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729160541587,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729160541588,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729160541590,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729160541591,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729160541598,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729160541598,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729160541599,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729160541601,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729160541602,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729160541613,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729160541614,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729160541616,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729160541617,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729160541618,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729160541619,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729160541619,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729160541620,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729160541624,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729160541625,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729160541626,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729160541627,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729160541629,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729160541630,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729160541634,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729160541636,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729160541637,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729160541638,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729160541639,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729160541640,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729160541640,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729160541641,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729160541642,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729160541642,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729160541643,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729160541643,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729160541644,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729160541644,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729160541646,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729160541647,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729160541648,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729160541648,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729160541654,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729160541655,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729160541656,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729160541658,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729160541662,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729160541662,"pid":1824,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729160541684,"pid":1824,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729160541684,"pid":1824,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729160541684,"pid":1824,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729160541686,"pid":1824,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729160541686,"pid":1824,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729160541686,"pid":1824,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729160541726,"pid":1824,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729160541978,"pid":1824,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729160541978,"pid":1824,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729160543647,"pid":1824,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729160544824,"pid":1824,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729160544825,"pid":1824,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729160545231,"pid":1824,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729160545265,"pid":1824,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729160573129,"pid":1532,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729160573214,"pid":1532,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729160573633,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729160573634,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729160573635,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729160573637,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729160573638,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729160573646,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729160573647,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729160573648,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729160573650,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729160573651,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729160573661,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729160573662,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729160573664,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729160573664,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729160573665,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729160573665,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729160573666,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729160573667,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729160573667,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729160573668,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729160573669,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729160573671,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729160573672,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729160573673,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729160573680,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729160573683,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729160573684,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729160573687,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729160573688,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729160573695,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729160573696,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729160573697,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729160573698,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729160573699,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729160573700,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729160573700,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729160573701,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729160573702,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729160573704,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729160573705,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729160573706,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729160573707,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729160573714,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729160573716,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729160573716,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729160573719,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729160573723,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729160573723,"pid":1532,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729160573755,"pid":1532,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729160573755,"pid":1532,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729160573755,"pid":1532,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729160573757,"pid":1532,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729160573757,"pid":1532,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729160573757,"pid":1532,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729160573800,"pid":1532,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729160574044,"pid":1532,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729160574044,"pid":1532,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729160575245,"pid":1532,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729160576506,"pid":1532,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729160576506,"pid":1532,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729160576632,"pid":1532,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729160576986,"pid":1532,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729160630370,"pid":6608,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729160630410,"pid":6608,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729160630781,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729160630782,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729160630783,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729160630785,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729160630786,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729160630793,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729160630795,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729160630796,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729160630799,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729160630800,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729160630816,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729160630817,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729160630819,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729160630819,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729160630820,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729160630820,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729160630821,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729160630822,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729160630822,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729160630823,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729160630824,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729160630825,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729160630827,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729160630828,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729160630833,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729160630834,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729160630835,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729160630837,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729160630837,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729160630838,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729160630839,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729160630839,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729160630840,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729160630841,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729160630841,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729160630842,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729160630842,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729160630843,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729160630845,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729160630846,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729160630847,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729160630847,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729160630853,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729160630855,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729160630855,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729160630857,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729160630861,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729160630861,"pid":6608,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729160630883,"pid":6608,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729160630883,"pid":6608,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729160630883,"pid":6608,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729160630884,"pid":6608,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729160630884,"pid":6608,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729160630884,"pid":6608,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729160630917,"pid":6608,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729160631155,"pid":6608,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729160631155,"pid":6608,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729160632634,"pid":6608,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729160633813,"pid":6608,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729160633813,"pid":6608,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729160633997,"pid":6608,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729160634319,"pid":6608,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729160834581,"pid":10476,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729160834627,"pid":10476,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729160835111,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729160835113,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729160835115,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729160835116,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729160835117,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729160835125,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729160835125,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729160835127,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729160835128,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729160835129,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729160835139,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729160835140,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729160835142,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729160835143,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729160835143,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729160835144,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729160835144,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729160835145,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729160835145,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729160835146,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729160835147,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729160835148,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729160835150,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729160835151,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729160835155,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729160835157,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729160835158,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729160835160,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729160835161,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729160835162,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729160835162,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729160835163,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729160835164,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729160835164,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729160835165,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729160835165,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729160835166,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729160835171,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729160835173,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729160835174,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729160835174,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729160835175,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729160835181,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729160835182,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729160835183,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729160835185,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729160835189,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729160835189,"pid":10476,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729160835212,"pid":10476,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729160835212,"pid":10476,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729160835212,"pid":10476,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729160835213,"pid":10476,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729160835214,"pid":10476,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729160835214,"pid":10476,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729160835248,"pid":10476,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729160835505,"pid":10476,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729160835505,"pid":10476,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729160836867,"pid":10476,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729160838093,"pid":10476,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729160838093,"pid":10476,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729160838241,"pid":10476,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729160838662,"pid":10476,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729161017255,"pid":15812,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729161017295,"pid":15812,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729161017664,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729161017665,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729161017666,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729161017668,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729161017669,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729161017675,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729161017676,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729161017677,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729161017678,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729161017679,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729161017689,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729161017690,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729161017691,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729161017691,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729161017692,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729161017693,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729161017693,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729161017694,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729161017694,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729161017695,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729161017696,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729161017697,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729161017699,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729161017700,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729161017704,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729161017706,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729161017706,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729161017708,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729161017709,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729161017709,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729161017710,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729161017710,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729161017711,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729161017712,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729161017712,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729161017713,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729161017713,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729161017714,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729161017716,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729161017717,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729161017717,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729161017718,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729161017724,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729161017726,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729161017729,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729161017736,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729161017740,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729161017740,"pid":15812,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729161017763,"pid":15812,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729161017763,"pid":15812,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729161017763,"pid":15812,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729161017764,"pid":15812,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729161017764,"pid":15812,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729161017765,"pid":15812,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729161017798,"pid":15812,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729161018056,"pid":15812,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729161018056,"pid":15812,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729161019368,"pid":15812,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729161020561,"pid":15812,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729161020561,"pid":15812,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729161020688,"pid":15812,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729161021092,"pid":15812,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729161073866,"pid":7968,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729161073907,"pid":7968,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729161074340,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729161074341,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729161074343,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729161074345,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729161074346,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729161074354,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729161074355,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729161074356,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729161074357,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729161074359,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729161074370,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729161074371,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729161074372,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729161074372,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729161074373,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729161074374,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729161074374,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729161074375,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729161074375,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729161074376,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729161074377,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729161074378,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729161074380,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729161074381,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729161074386,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729161074387,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729161074388,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729161074390,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729161074390,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729161074391,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729161074392,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729161074392,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729161074393,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729161074394,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729161074394,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729161074395,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729161074395,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729161074396,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729161074398,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729161074398,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729161074399,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729161074400,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729161074405,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729161074407,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729161074408,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729161074410,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729161074415,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729161074415,"pid":7968,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729161074455,"pid":7968,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729161074455,"pid":7968,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729161074455,"pid":7968,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729161074457,"pid":7968,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729161074457,"pid":7968,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729161074457,"pid":7968,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729161074492,"pid":7968,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729161074753,"pid":7968,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729161074753,"pid":7968,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729161076257,"pid":7968,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729161077486,"pid":7968,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729161077487,"pid":7968,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729161077609,"pid":7968,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729161077973,"pid":7968,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729161154076,"pid":17352,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729161154118,"pid":17352,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729161154531,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729161154532,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729161154534,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729161154536,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729161154537,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729161154544,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729161154545,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729161154546,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729161154549,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729161154550,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729161154563,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729161154565,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729161154566,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729161154567,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729161154568,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729161154569,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729161154570,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729161154571,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729161154572,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729161154573,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729161154576,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729161154578,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729161154582,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729161154584,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729161154597,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729161154600,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729161154601,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729161154603,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729161154605,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729161154608,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729161154609,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729161154610,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729161154611,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729161154612,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729161154613,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729161154615,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729161154615,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729161154616,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729161154620,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729161154621,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729161154622,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729161154622,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729161154631,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729161154634,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729161154635,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729161154638,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729161154643,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729161154643,"pid":17352,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729161154674,"pid":17352,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729161154674,"pid":17352,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729161154674,"pid":17352,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729161154675,"pid":17352,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729161154675,"pid":17352,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729161154675,"pid":17352,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729161154710,"pid":17352,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729161154961,"pid":17352,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729161154961,"pid":17352,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729161156459,"pid":17352,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729161157854,"pid":17352,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729161157854,"pid":17352,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729161158002,"pid":17352,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729161158380,"pid":17352,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729161281076,"pid":10864,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729161281130,"pid":10864,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729161281544,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729161281546,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729161281548,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729161281550,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729161281551,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729161281558,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729161281559,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729161281560,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729161281565,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729161281566,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729161281581,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729161281582,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729161281584,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729161281585,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729161281586,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729161281587,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729161281588,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729161281588,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729161281589,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729161281590,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729161281592,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729161281594,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729161281597,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729161281598,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729161281605,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729161281608,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729161281609,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729161281613,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729161281614,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729161281615,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729161281617,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729161281618,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729161281619,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729161281624,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729161281625,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729161281626,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729161281627,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729161281628,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729161281631,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729161281632,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729161281633,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729161281634,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729161281642,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729161281644,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729161281645,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729161281648,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729161281652,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729161281652,"pid":10864,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729161281683,"pid":10864,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729161281683,"pid":10864,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729161281683,"pid":10864,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729161281684,"pid":10864,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729161281684,"pid":10864,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729161281684,"pid":10864,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729161281718,"pid":10864,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729161281960,"pid":10864,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729161281960,"pid":10864,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729161283519,"pid":10864,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729161284695,"pid":10864,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729161284695,"pid":10864,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729161285180,"pid":10864,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729161285469,"pid":10864,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729161356447,"pid":17676,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729161356485,"pid":17676,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729161356845,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729161356846,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729161356847,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729161356849,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729161356850,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729161356856,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729161356857,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729161356858,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729161356859,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729161356860,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729161356869,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729161356870,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729161356872,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729161356872,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729161356873,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729161356873,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729161356874,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729161356874,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729161356875,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729161356876,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729161356877,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729161356878,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729161356879,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729161356880,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729161356885,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729161356886,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729161356887,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729161356888,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729161356889,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729161356890,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729161356890,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729161356891,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729161356891,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729161356892,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729161356893,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729161356893,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729161356894,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729161356894,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729161356896,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729161356897,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729161356897,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729161356898,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729161356904,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729161356911,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729161356912,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729161356914,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729161356918,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729161356918,"pid":17676,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729161356940,"pid":17676,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729161356940,"pid":17676,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729161356940,"pid":17676,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729161356941,"pid":17676,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729161356941,"pid":17676,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729161356941,"pid":17676,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729161356973,"pid":17676,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729161357230,"pid":17676,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729161357230,"pid":17676,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729161358684,"pid":17676,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729161359781,"pid":17676,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729161359781,"pid":17676,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729161360056,"pid":17676,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729161360343,"pid":17676,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729161583634,"pid":1488,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729161583677,"pid":1488,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729161584067,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729161584068,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729161584070,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729161584071,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729161584072,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729161584079,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729161584080,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729161584081,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729161584083,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729161584084,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729161584093,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729161584094,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729161584095,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729161584096,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729161584097,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729161584097,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729161584098,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729161584098,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729161584099,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729161584100,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729161584101,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729161584102,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729161584104,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729161584105,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729161584109,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729161584110,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729161584111,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729161584113,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729161584113,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729161584114,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729161584115,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729161584115,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729161584116,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729161584117,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729161584117,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729161584118,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729161584118,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729161584119,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729161584121,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729161584122,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729161584123,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729161584124,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729161584135,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729161584137,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729161584137,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729161584139,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729161584145,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729161584145,"pid":1488,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729161584179,"pid":1488,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729161584179,"pid":1488,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729161584179,"pid":1488,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729161584181,"pid":1488,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729161584181,"pid":1488,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729161584182,"pid":1488,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729161584226,"pid":1488,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729161584500,"pid":1488,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729161584500,"pid":1488,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729161586199,"pid":1488,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729161587507,"pid":1488,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729161587507,"pid":1488,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729161587636,"pid":1488,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729161587970,"pid":1488,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729161860058,"pid":10100,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729161860107,"pid":10100,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729161860535,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729161860536,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729161860538,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729161860539,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729161860541,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729161860548,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729161860549,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729161860550,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729161860551,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729161860552,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729161860563,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729161860564,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729161860566,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729161860566,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729161860567,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729161860568,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729161860568,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729161860569,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729161860569,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729161860570,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729161860571,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729161860573,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729161860575,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729161860576,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729161860582,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729161860584,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729161860585,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729161860591,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729161860592,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729161860593,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729161860593,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729161860594,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729161860595,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729161860595,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729161860596,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729161860596,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729161860597,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729161860597,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729161860600,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729161860600,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729161860601,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729161860601,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729161860607,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729161860609,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729161860610,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729161860612,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729161860615,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729161860615,"pid":10100,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729161860637,"pid":10100,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729161860637,"pid":10100,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729161860637,"pid":10100,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729161860638,"pid":10100,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729161860638,"pid":10100,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729161860638,"pid":10100,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729161860672,"pid":10100,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729161860937,"pid":10100,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729161860967,"pid":10100,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729161862737,"pid":10100,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729161863933,"pid":10100,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729161863933,"pid":10100,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729161864204,"pid":10100,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729161864355,"pid":10100,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729162397865,"pid":4888,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729162397922,"pid":4888,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729162398300,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729162398301,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729162398303,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729162398304,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729162398305,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729162398312,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729162398313,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729162398314,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729162398316,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729162398317,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729162398327,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729162398328,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729162398329,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729162398330,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729162398330,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729162398331,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729162398331,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729162398332,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729162398332,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729162398333,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729162398335,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729162398336,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729162398337,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729162398338,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729162398345,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729162398348,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729162398349,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729162398355,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729162398356,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729162398357,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729162398357,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729162398358,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729162398359,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729162398359,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729162398360,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729162398360,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729162398361,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729162398361,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729162398363,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729162398364,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729162398365,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729162398366,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729162398371,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729162398373,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729162398374,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729162398375,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729162398380,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729162398380,"pid":4888,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729162398402,"pid":4888,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729162398402,"pid":4888,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729162398402,"pid":4888,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729162398403,"pid":4888,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729162398403,"pid":4888,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729162398404,"pid":4888,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729162398436,"pid":4888,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729162398683,"pid":4888,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729162398683,"pid":4888,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729162400085,"pid":4888,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729162401322,"pid":4888,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729162401322,"pid":4888,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729162401541,"pid":4888,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729162401755,"pid":4888,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729162746149,"pid":17628,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729162746189,"pid":17628,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729162746597,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729162746598,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729162746599,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729162746600,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729162746601,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729162746608,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729162746609,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729162746610,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729162746612,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729162746612,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729162746622,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729162746623,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729162746624,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729162746625,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729162746625,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729162746626,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729162746626,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729162746627,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729162746627,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729162746628,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729162746629,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729162746630,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729162746632,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729162746633,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729162746637,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729162746639,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729162746639,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729162746642,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729162746643,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729162746644,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729162746645,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729162746646,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729162746647,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729162746648,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729162746652,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729162746652,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729162746653,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729162746653,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729162746655,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729162746656,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729162746657,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729162746657,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729162746663,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729162746665,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729162746665,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729162746667,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729162746671,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729162746671,"pid":17628,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729162746693,"pid":17628,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729162746693,"pid":17628,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729162746693,"pid":17628,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729162746694,"pid":17628,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729162746694,"pid":17628,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729162746694,"pid":17628,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729162746727,"pid":17628,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729162747031,"pid":17628,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729162747031,"pid":17628,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729162748445,"pid":17628,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729162749567,"pid":17628,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729162749567,"pid":17628,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729162749942,"pid":17628,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729162750135,"pid":17628,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729162831450,"pid":3636,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729162831504,"pid":3636,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729162831910,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729162831912,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729162831913,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729162831915,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729162831916,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729162831923,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729162831924,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729162831925,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729162831927,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729162831928,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729162831938,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729162831939,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729162831941,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729162831941,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729162831942,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729162831942,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729162831943,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729162831944,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729162831944,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729162831945,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729162831947,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729162831948,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729162831949,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729162831950,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729162831955,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729162831956,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729162831957,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729162831958,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729162831959,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729162831960,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729162831960,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729162831961,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729162831962,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729162831962,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729162831963,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729162831963,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729162831964,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729162831964,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729162831966,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729162831968,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729162831968,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729162831969,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729162831985,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729162831988,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729162831989,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729162831991,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729162831996,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729162831996,"pid":3636,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729162832019,"pid":3636,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729162832019,"pid":3636,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729162832019,"pid":3636,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729162832021,"pid":3636,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729162832021,"pid":3636,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729162832021,"pid":3636,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729162832057,"pid":3636,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729162832337,"pid":3636,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729162832337,"pid":3636,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729162833951,"pid":3636,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729162835338,"pid":3636,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729162835339,"pid":3636,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729162835469,"pid":3636,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729162835793,"pid":3636,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":50,"time":1729162975744,"pid":3636,"hostname":"Desktop-Oran","err":{"type":"DiscordAPIError","message":"Unknown Message","stack":"DiscordAPIError[10008]: Unknown Message\n    at handleErrors (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\@discordjs\\rest\\dist\\index.js:640:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\@discordjs\\rest\\dist\\index.js:1021:23)\n    at async SequentialHandler.queueRequest (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\@discordjs\\rest\\dist\\index.js:862:14)\n    at async REST.request (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\@discordjs\\rest\\dist\\index.js:1387:22)\n    at async MessageManager.edit (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\discord.js\\src\\managers\\MessageManager.js:176:15)\n    at async InteractionCollector.<anonymous> (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\src\\commands\\admin\\embed.js:259:5)","requestBody":{"files":[],"json":{"content":"","tts":false,"components":[],"allowed_mentions":{"replied_user":false},"flags":0}},"rawError":{"message":"Unknown Message","code":10008},"code":10008,"status":404,"method":"PATCH","url":"https://discord.com/api/v10/channels/690567413527478282/messages/1296427925117341756"},"msg":"Unhandled exception: Unknown Message"}
+{"level":50,"time":1729163220047,"pid":3636,"hostname":"Desktop-Oran","err":{"type":"DiscordAPIError","message":"Unknown Message","stack":"DiscordAPIError[10008]: Unknown Message\n    at handleErrors (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\@discordjs\\rest\\dist\\index.js:640:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\@discordjs\\rest\\dist\\index.js:1021:23)\n    at async SequentialHandler.queueRequest (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\@discordjs\\rest\\dist\\index.js:862:14)\n    at async REST.request (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\@discordjs\\rest\\dist\\index.js:1387:22)\n    at async MessageManager.edit (C:\\Users\\oranb\\Downloads\\discord-js-bot-main\\discord-js-bot-main\\node_modules\\discord.js\\src\\managers\\MessageManager.js:176:15)","requestBody":{"files":[],"json":{"tts":false,"components":[],"flags":0}},"rawError":{"message":"Unknown Message","code":10008},"code":10008,"status":404,"method":"PATCH","url":"https://discord.com/api/v10/channels/690567413527478282/messages/1296427925117341756"},"msg":"Unhandled exception: Unknown Message"}
+{"level":30,"time":1729167011608,"pid":18452,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729167011654,"pid":18452,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729167012282,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729167012283,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729167012285,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729167012286,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729167012288,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729167012296,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729167012297,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729167012298,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729167012300,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729167012301,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729167012311,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729167012313,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729167012314,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729167012315,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729167012316,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729167012316,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729167012317,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729167012317,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729167012318,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729167012319,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729167012320,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729167012322,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729167012323,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729167012324,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729167012329,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729167012331,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729167012332,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729167012333,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729167012334,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729167012335,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729167012336,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729167012336,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729167012337,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729167012338,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729167012339,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729167012339,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729167012340,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729167012340,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729167012343,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729167012344,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729167012344,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729167012345,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729167012354,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729167012356,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729167012356,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729167012359,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729167012363,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729167012363,"pid":18452,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729167012387,"pid":18452,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729167012387,"pid":18452,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729167012387,"pid":18452,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729167012388,"pid":18452,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729167012388,"pid":18452,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729167012388,"pid":18452,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729167012426,"pid":18452,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729167018188,"pid":18452,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729167018188,"pid":18452,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729167019829,"pid":18452,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729167026807,"pid":18452,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729167026807,"pid":18452,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729167026927,"pid":18452,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729167027224,"pid":18452,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729167108448,"pid":18412,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729167108495,"pid":18412,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729167109080,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729167109081,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729167109083,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729167109085,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729167109086,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729167109093,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729167109093,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729167109094,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729167109096,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729167109097,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729167109107,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729167109108,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729167109110,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729167109110,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729167109111,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729167109112,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729167109112,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729167109113,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729167109113,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729167109114,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729167109116,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729167109117,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729167109118,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729167109119,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729167109124,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729167109125,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729167109126,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729167109128,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729167109128,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729167109129,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729167109130,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729167109131,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729167109132,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729167109133,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729167109134,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729167109134,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729167109135,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729167109135,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729167109137,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729167109138,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729167109139,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729167109140,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729167109146,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729167109148,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729167109149,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729167109151,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729167109155,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729167109155,"pid":18412,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729167109178,"pid":18412,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729167109178,"pid":18412,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729167109178,"pid":18412,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729167109179,"pid":18412,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729167109180,"pid":18412,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729167109180,"pid":18412,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729167109215,"pid":18412,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729167109454,"pid":18412,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729167109454,"pid":18412,"hostname":"Desktop-Oran","msg":"Launching dashboard"}
+{"level":30,"time":1729167111037,"pid":18412,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729167112496,"pid":18412,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729167112528,"pid":18412,"hostname":"Desktop-Oran","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1729167113820,"pid":18412,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729167113820,"pid":18412,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729167113975,"pid":18412,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729167114338,"pid":18412,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729167255898,"pid":14120,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729167255948,"pid":14120,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729167256404,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729167256405,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729167256406,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729167256408,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729167256409,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729167256416,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729167256417,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729167256418,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729167256419,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729167256420,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729167256433,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729167256434,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729167256436,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729167256437,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729167256438,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729167256439,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729167256440,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729167256440,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729167256441,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729167256442,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729167256444,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729167256445,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729167256447,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729167256448,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729167256452,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729167256454,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729167256454,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729167256456,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729167256458,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729167256459,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729167256460,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729167256461,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729167256462,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729167256463,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729167256464,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729167256465,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729167256465,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729167256466,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729167256472,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729167256473,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729167256474,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729167256474,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729167256480,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729167256482,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729167256482,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729167256485,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729167256491,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729167256491,"pid":14120,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729167256514,"pid":14120,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729167256514,"pid":14120,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729167256514,"pid":14120,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729167256515,"pid":14120,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729167256515,"pid":14120,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729167256515,"pid":14120,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729167256551,"pid":14120,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729167256811,"pid":14120,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729167256811,"pid":14120,"hostname":"Desktop-Oran","msg":"Launching dashboard"}
+{"level":30,"time":1729167256969,"pid":14120,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729167258357,"pid":14120,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729167258373,"pid":14120,"hostname":"Desktop-Oran","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1729167259713,"pid":14120,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729167259713,"pid":14120,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729167259880,"pid":14120,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729167260210,"pid":14120,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729168016853,"pid":14408,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729168016897,"pid":14408,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729168017455,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729168017457,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729168017458,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729168017460,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729168017461,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729168017468,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729168017468,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729168017470,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729168017471,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729168017472,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729168017482,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729168017484,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729168017485,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729168017485,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729168017486,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729168017487,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729168017487,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729168017488,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729168017488,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729168017489,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729168017491,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729168017492,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729168017494,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729168017494,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729168017499,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729168017501,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729168017501,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729168017503,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729168017504,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729168017505,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729168017505,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729168017506,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729168017507,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729168017507,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729168017508,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729168017508,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729168017509,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729168017510,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729168017511,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729168017512,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729168017513,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729168017513,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729168017520,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729168017522,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729168017522,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729168017525,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729168017529,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729168017529,"pid":14408,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729168017553,"pid":14408,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729168017553,"pid":14408,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729168017553,"pid":14408,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729168017554,"pid":14408,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729168017554,"pid":14408,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729168017554,"pid":14408,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729168017593,"pid":14408,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729168017834,"pid":14408,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729168017834,"pid":14408,"hostname":"Desktop-Oran","msg":"Launching dashboard"}
+{"level":30,"time":1729168017994,"pid":14408,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729168019387,"pid":14408,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729168019403,"pid":14408,"hostname":"Desktop-Oran","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1729168020625,"pid":14408,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729168020625,"pid":14408,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729168020770,"pid":14408,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729168021121,"pid":14408,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729169083768,"pid":5728,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729169083809,"pid":5728,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729169084209,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729169084210,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729169084212,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729169084213,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729169084214,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729169084221,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729169084221,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729169084222,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729169084224,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729169084225,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729169084234,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729169084235,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729169084236,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729169084237,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729169084237,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729169084238,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729169084238,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729169084239,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729169084240,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729169084241,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729169084242,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729169084243,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729169084245,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729169084246,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729169084251,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729169084256,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729169084257,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729169084259,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729169084259,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729169084260,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729169084261,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729169084261,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729169084262,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729169084262,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729169084263,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729169084263,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729169084264,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729169084264,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729169084266,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729169084267,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729169084268,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729169084268,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729169084274,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729169084275,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729169084276,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729169084278,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729169084282,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729169084282,"pid":5728,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729169084304,"pid":5728,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729169084304,"pid":5728,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729169084304,"pid":5728,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729169084305,"pid":5728,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729169084305,"pid":5728,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729169084305,"pid":5728,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729169084338,"pid":5728,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729169084578,"pid":5728,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729169084578,"pid":5728,"hostname":"Desktop-Oran","msg":"Launching dashboard"}
+{"level":30,"time":1729169084732,"pid":5728,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729169086026,"pid":5728,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729169086041,"pid":5728,"hostname":"Desktop-Oran","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1729169087114,"pid":5728,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729169087114,"pid":5728,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729169087353,"pid":5728,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729169087662,"pid":5728,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
+{"level":30,"time":1729169259062,"pid":4052,"hostname":"Desktop-Oran","msg":"Validating config file and environment variables"}
+{"level":30,"time":1729169259113,"pid":4052,"hostname":"Desktop-Oran","msg":"Loading commands..."}
+{"level":20,"time":1729169259575,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1729169259576,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1729169259578,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1729169259580,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1729169259581,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1729169259589,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1729169259590,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1729169259591,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1729169259593,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1729169259595,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1729169259607,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1729169259608,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1729169259609,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1729169259610,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1729169259610,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1729169259611,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1729169259612,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1729169259612,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1729169259613,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1729169259614,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1729169259615,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1729169259616,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1729169259618,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1729169259619,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1729169259625,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1729169259628,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1729169259629,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1729169259632,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1729169259633,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1729169259634,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1729169259635,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1729169259636,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1729169259646,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1729169259648,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1729169259649,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1729169259649,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1729169259650,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1729169259651,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1729169259654,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command blacklist. Disabled!"}
+{"level":20,"time":1729169259656,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1729169259657,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1729169259657,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1729169259666,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command addcustomcommand. Disabled!"}
+{"level":20,"time":1729169259668,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command listcustomcommands. Disabled!"}
+{"level":20,"time":1729169259669,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command listpremium. Disabled!"}
+{"level":20,"time":1729169259674,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command removecustomcommand. Disabled!"}
+{"level":20,"time":1729169259683,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping command buy. Disabled!"}
+{"level":20,"time":1729169259683,"pid":4052,"hostname":"Desktop-Oran","msg":"Skipping slash command buy. Disabled!"}
+{"level":30,"time":1729169259716,"pid":4052,"hostname":"Desktop-Oran","msg":"Loaded 108 commands"}
+{"level":30,"time":1729169259716,"pid":4052,"hostname":"Desktop-Oran","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1729169259717,"pid":4052,"hostname":"Desktop-Oran","msg":"Loading contexts..."}
+{"level":30,"time":1729169259718,"pid":4052,"hostname":"Desktop-Oran","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1729169259718,"pid":4052,"hostname":"Desktop-Oran","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1729169259718,"pid":4052,"hostname":"Desktop-Oran","msg":"Loading events..."}
+{"level":30,"time":1729169259767,"pid":4052,"hostname":"Desktop-Oran","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1729169260028,"pid":4052,"hostname":"Desktop-Oran","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1729169260028,"pid":4052,"hostname":"Desktop-Oran","msg":"Launching dashboard"}
+{"level":30,"time":1729169260214,"pid":4052,"hostname":"Desktop-Oran","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1729169261608,"pid":4052,"hostname":"Desktop-Oran","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1729169261626,"pid":4052,"hostname":"Desktop-Oran","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1729169262803,"pid":4052,"hostname":"Desktop-Oran","msg":"Logged in as CZISIS Helper#0401! (822896780810125413)"}
+{"level":30,"time":1729169262803,"pid":4052,"hostname":"Desktop-Oran","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1729169263200,"pid":4052,"hostname":"Desktop-Oran","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1729169263286,"pid":4052,"hostname":"Desktop-Oran","msg":"Successfully registered interactions"}
